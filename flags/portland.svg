@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg 
+	height="360" 
+	width="600" 
+	version="1.1" 
+	xmlns="http://www.w3.org/2000/svg">
+	<desc>flag of Portland</desc>
+<!--
+	from http://en.wikipedia.org/wiki/File:Flag_of_Portland_Oregon.svg
+	this file is in the public domain
+-->
+	<rect 
+		fill="#00693c" 
+		height="360" 
+		width="600" />
+	<g 
+		fill="white">
+		<rect 
+			height="110" 
+			width="110" 
+			x="210" 
+			y="125" />
+	</g>
+	<g 
+		fill="#4b92db">
+		<rect 
+			height="135" 
+			width="40" 
+			x="220"
+			y="0" />
+		<rect 
+			height="40" 
+			width="290" 
+			x="310" 
+			y="135" />
+		<rect 
+			height="135" 
+			width="40" 
+			x="270" 
+			y="225" />
+		<rect 
+			height="40" 
+			width="220" 
+			x="0" 
+			y="185" />
+	</g>
+	<g 
+		fill="#4b92db">
+		<circle 
+			cx="220" 
+			cy="135" 
+			r="40" />
+		<circle 
+			cx="220" 
+			cy="225" 
+			r="40" />
+		<circle 
+			cx="310" 
+			cy="135" 
+			r="40" />
+		<circle 
+			cx="310" 
+			cy="225" 
+			r="40" />
+	</g>
+	<g 
+		fill="white">
+		<rect 
+			height="185" 
+			width="40" 
+			x="180" 
+			y="0" />
+		<rect 
+			height="40" 
+			width="220" 
+			x="0" 
+			y="145" />
+		<rect 
+			height="135" 
+			width="40" 
+			x="260" 
+			y="0" />
+		<rect 
+			height="40" 
+			width="340" 
+			x="260" 
+			y="95" />
+		<rect 
+			height="40" 
+			width="290" 
+			x="310" 
+			y="175" />
+		<rect 
+			height="185" 
+			width="40" 
+			x="310" 
+			y="175" />
+		<rect 
+			height="135" 
+			width="40" 
+			x="230" 
+			y="225" />
+		<rect 
+			height="40" 
+			width="270" 
+			x="0" 
+			y="225" />
+	</g>
+	<g 
+		fill="#ffb612">
+		<rect 
+			height="175" 
+			width="20" 
+			x="190" 
+			y="0" />
+		<rect 
+			height="20" 
+			width="210" 
+			x="0" 
+			y="155" />
+		<rect 
+			height="125" 
+			width="20" 
+			x="270" 
+			y="0" />
+		<rect 
+			height="20" 
+			width="330" 
+			x="270" 
+			y="105" />
+		<rect 
+			height="20" 
+			width="280" 
+			x="320" 
+			y="185" />
+		<rect 
+			height="175" 
+			width="20" 
+			x="320" 
+			y="185" />
+		<rect 
+			height="125" 
+			width="20" 
+			x="240" 
+			y="235" />
+		<rect 
+			height="20" 
+			width="260" 
+			x="0" 
+			y="235" />
+	</g>
+</svg>
