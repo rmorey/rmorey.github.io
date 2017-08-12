@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rmorey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rmorey.net
+  * I am rmorey (https://keybase.io/rmorey) on keybase.
+  * I have a public key with fingerprint CA44 B646 1616 8FA8 C1AA  94DF 84D2 33C5 4169 20EA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101713dc17569fc8ad1c2755dd9290e7d6d6805478fad33b3c4cef6a6e2e32c07f20a",
+      "fingerprint": "ca44b64616168fa8c1aa94df84d233c5416920ea",
+      "host": "keybase.io",
+      "key_id": "84d233c5416920ea",
+      "kid": "0101713dc17569fc8ad1c2755dd9290e7d6d6805478fad33b3c4cef6a6e2e32c07f20a",
+      "uid": "30e79d63c1d7f6af30c588680c4b6719",
+      "username": "rmorey"
+    },
+    "service": {
+      "hostname": "rmorey.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1502520949,
+  "expire_in": 157680000,
+  "prev": "84e96c8cb04e07df4df7942fe55a058f8c7148a89d7ad5cb48bde7bbb305759f",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMIeAnicrVJbSBRRGF7XvLTQBSJMwqyRIGW1uV/2RUIoKsqSCiRtnTnnjI6XmXV2
+1rwkWD4IJhkqGRRe6GJQCOlTUbJZklJZmVR0EUlNkEjLWxJiZ5Z6CHrsnIfD+c/3
+fef7P/5Ha8IdrrDuPTGNGdJETtiTB40BR+a564EKQjFgGeGpIApQ6ECFEPktb4EG
+CQ9BUiQlUAwElMDxkgpEGVKAFjgOQomWSCRAHvIiybGCqMqQYRQGsACpvMwjGjE0
+IAWVJmXCTaianotMn6npFpYFMssqPMtTeGOiCChZllioiiykGQZwLMVLNIlsYp7h
+txnYnCL7UYpm4Bq+eEP2/oH/z74DITkGMyTIM4CCAgapDAk4UcQCALchUJIN9CNT
+l4sQRptFhomzrHQTuFaiAWTHavfx13uKjizM85mGZQCjENfzLMvnsWlWmc/GnUSK
+97eCV9F0iCPEhBJk+jVDJzwURgJLsyUpjqQ5mpRYyU2gUp9mIq9mIzgBe8TL/gaV
+hAJDEg9EoJAsIgWo4swFiaVVxHEyyYmqCASKFWVRgoIMOaCwogKRoCgKQ3ICJ6mE
+3VOxbhAeWsQ+5Vys6ddyddkKmIio7A1mrXKEuRyREU57thyu1ev/TFw+GbVy8GnR
+wgUzfLl7cajp7XQczjBnfHDDZFxnwejE/Z7C8nVfeho6fqw8nxzIrB28OVS5se1w
+x1T1S//Z9itZN4ZXXlcN7u4/khD/RqmBTe9GY+4BJM/pXx0fEo+d0jIfL7Tdza5H
+8e5bh0BXbNT4Pte8c2uz0pI+sFbvmp493l3+vq8lqT2frXFeXXo1djuYmNa4s7Gk
+LuhUmp/dOX+U7qJ27B1ZjFyauXim/9tyabdZPczXz8zXMd7x3pFPW05/vkzUfo+u
+mX2YWtrg6lR2nfC/yNyUnRyMSmgdi6QP7PcmlSdujkhNvjS3La2vo/VjVXNnccXU
+1M+MoHktOn1+uxb7CwKSSLs=
+=gnH2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rmorey
+
+==================================================================
